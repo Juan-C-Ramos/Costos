@@ -1,0 +1,94 @@
+{
+  "Datos": [
+    [
+      {
+        "Hotel": "Lettera Poblado",
+        "Opciones": [
+          { "Descripcion": "Temporada Baja - Individual (1 persona) Twin", "Precio": 460000 },
+          { "Descripcion": "Temporada Baja - Doble (2 personas) Twin", "Precio": 480000 },
+          { "Descripcion": "Temporada Alta - Individual (1 persona) Twin", "Precio": 490000 },
+          { "Descripcion": "Temporada Alta - Doble (2 personas) Twin", "Precio": 510000 },
+          { "Descripcion": "Temporada Baja - Individual (1 persona) Deluxe", "Precio": 650000 },
+          { "Descripcion": "Temporada Baja - Doble (2 personas) Deluxe", "Precio": 690000 },
+          { "Descripcion": "Temporada Alta - Individual (1 persona) Deluxe", "Precio": 690000 },
+          { "Descripcion": "Temporada Alta - Doble (2 personas) Deluxe", "Precio": 730000 },
+          { "Descripcion": "Temporada Baja - Individual (1 persona) Junior Suite", "Precio": 680000 },
+          { "Descripcion": "Temporada Baja - Doble (2 personas) Junior Suite", "Precio": 720000 },
+          { "Descripcion": "Temporada Alta - Individual (1 persona) Junior Suite", "Precio": 750000 },
+          { "Descripcion": "Temporada Alta - Doble (2 personas) Junior Suite", "Precio": 790000 },
+          { "Descripcion": "Temporada Baja - Individual (1 persona) Suite", "Precio": 880000 },
+          { "Descripcion": "Temporada Baja - Doble (2 personas) Suite", "Precio": 890000 },
+          { "Descripcion": "Temporada Alta - Individual (1 persona) Suite", "Precio": 890000 },
+          { "Descripcion": "Temporada Alta - Doble (2 personas) Suite", "Precio": 910000 }
+        ]
+      },
+      {
+        "Hotel": "Sonata 44 Laureles",
+        "Opciones": [
+          { "Descripcion": "(2 persona) Doble estandar", "Precio": 290000 },
+          { "Descripcion": "(2 persona) Doble externa", "Precio": 305000 },
+          { "Descripcion": "(2 persona) Master Suite", "Precio": 340000 },
+          { "Descripcion": "(3 persona) Triple Suite", "Precio": 460000 }
+        ]
+      },
+      {
+        "Hotel": "York Luxury",
+        "Opciones": [
+          { "Descripcion": "(1 o 2 persona) Superior King o Twin", "Precio": 610000 },
+          { "Descripcion": "(1 o 2 persona) Esmerald King", "Precio": 830000 },
+          { "Descripcion": "(1 o 2 persona) Esmerald Queen", "Precio": 890000 },
+          { "Descripcion": "(1 o 2 persona) Diamond king", "Precio": 980000 },
+          { "Descripcion": "(1 o 2 persona) Persona adicional", "Precio": 200000 }
+        ]
+      }
+    ],
+    [
+      {
+        "Alimentacion": "Alimentacion",
+        "Descripcion": "Costo adicional por día",
+        "Precio": 100000
+      }
+    ],
+    [
+      { "Cirugia": "Lipotransferencia + transferencia glutea", "Precio": 6900000 },
+      { "Cirugia": "Blefaro 2 parpados bajo anestesia local", "Precio": 4080000 },
+      { "Cirugia": "Blefaro 4 parpados bajo anestesia local", "Precio": 5780000 },
+      { "Cirugia": "Blefaro 2 parpados con anestesiologo", "Precio": 4780000 },
+      { "Cirugia": "Blefaro 4 parpados con anestesiologo", "Precio": 6830000 },
+      { "Cirugia": "Rinoplastia bajo anestesia general", "Precio": 12800000 },
+      { "Cirugia": "Lifting total con anestesiologo", "Precio": 25300000 },
+      { "Cirugia": "Pexia mamaria con implantes", "Precio": 19200000 },
+      { "Cirugia": "Pexia mamaria sin implantes", "Precio": 14700000 },
+      { "Cirugia": "Lipoescultura + abdominoplastia", "Precio": 18000000 },
+      { "Cirugia": "Lipoescultura + implantes de mamas", "Precio": 20600000 },
+      { "Cirugia": "Lipoescultura + pexia mamaria sin implantes", "Precio": 20100000 },
+      { "Cirugia": "Lipoescultura + pexia mamaria + implantes", "Precio": 24600000 },
+      { "Cirugia": "Lipoescultura + abdominoplastia + pexia sin implantes", "Precio": 27600000 },
+      { "Cirugia": "Lipoescultura + abdominoplastia + pexia + implantes", "Precio": 30100000 },
+      { "Cirugia": "Costo consulta", "Precio": 150000 },
+      { "Cirugia": "Hora adicional", "Precio": 400000 }
+    ],
+    [
+      { "Spa": "Masaje relajante", "Precio": 175000 },
+      { "Spa": "Masaje descontracturante", "Precio": 192000 },
+      { "Spa": "Masaje deportivo", "Precio": 192000 },
+      { "Spa": "Masaje tejido profundo", "Precio": 192000 },
+      { "Spa": "Trto facial limpieza profundo", "Precio": 200000 },
+      { "Spa": "Higienizacion", "Precio": 150000 },
+      { "Spa": "Drenaje + presoterapia", "Precio": 180000 },
+      { "Spa": "Postoperatorio", "Precio": 120000 },
+      { "Spa": "Camara hiperbarica", "Precio": 180000 },
+      { "Spa": "Fase postquirurgica inmediata (10 sesiones)", "Precio": 950000 },
+      { "Spa": "Paquete camara pre y posoperatorio (10 sesiones)", "Precio": 1650000 }
+    ],
+    [
+      { "Tours": "Cafe tour", "Precio": 287000 },
+      { "Tours": "Paisa por un dia", "Precio": 195000 },
+      { "Tours": "Gastrotour rumbero", "Precio": 130000 },
+      { "Tours": "Party bus", "Precio": 115000 },
+      { "Tours": "Guatape Gastronomico", "Precio": 185000 },
+      { "Tours": "Comuna 13 + citytour", "Precio": 600000 },
+      { "Tours": "Tour guatape + comuna 13", "Precio": 710000 }
+    ]
+  ]
+}
